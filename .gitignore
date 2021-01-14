@@ -1,6 +1,3 @@
-# ignore the data 
-*.csv.gz
-
 # Ignore some macOS stuff
 .DS_Store
 
